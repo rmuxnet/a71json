@@ -1,0 +1,236 @@
+[
+  {
+    "name": "OneUI 5.1",
+    "version": "5.1",
+    "maintainer": "Samsung",
+    "status": "Official",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/oneui.jpg",
+    "dlLink": "https://samfw.com/firmware/SM-A715F"
+  },
+  {
+    "name": "UN1CA",
+    "version": "Latest",
+    "maintainer": "salvogiangri",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/un1ca.jpg",
+    "dlLink": "https://github.com/salvogiangri/UN1CA/releases"
+  },
+  {
+    "name": "AxionAOSP",
+    "version": "15",
+    "maintainer": "rmux",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/axion.jpg",
+    "dlLink": "https://github.com/rmuxnet/Axion-A71/releases"
+  },
+  {
+    "name": "crDroid",
+    "version": "11",
+    "maintainer": "crDroid Team",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/crdroid.jpg",
+    "dlLink": "https://crdroid.net/a71/11"
+  },
+  {
+    "name": "DerpFest",
+    "version": "Latest",
+    "maintainer": "DerpFest Team",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/derpfest.jpg",
+    "dlLink": "https://sourceforge.net/projects/derpfest/files/a71/"
+  },
+  {
+    "name": "LineageOS",
+    "version": "Latest",
+    "maintainer": "LineageOS Team",
+    "status": "Official",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/lineage.jpg",
+    "dlLink": "https://download.lineageos.org/devices/a71/builds"
+  },
+  {
+    "name": "PixelOS",
+    "version": "Latest",
+    "maintainer": "PixelOS Team",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/pixelos.jpg",
+    "dlLink": "https://t.me/A715XX/216020"
+  },
+  {
+    "name": "Project Sakura",
+    "version": "Latest",
+    "maintainer": "Sakura Team",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/sakura.jpg",
+    "dlLink": "https://projectsakura.me/download/#/a71"
+  },
+  {
+    "name": "YAAP",
+    "version": "Latest",
+    "maintainer": "YAAP Team",
+    "status": "Unofficial",
+    "type": "rom",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/yaap.jpg",
+    "dlLink": "https://mirror.codebucket.de/yaap/a71/"
+  },
+  {
+    "name": "TWRP Recovery",
+    "version": "Latest",
+    "maintainer": "TWRP Team",
+    "status": "Unofficial",
+    "type": "recovery",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/twrp.jpg",
+    "dlLink": "https://t.me/a715cloud/4"
+  },
+  {
+    "name": "OrangeFox Recovery",
+    "version": "Latest",
+    "maintainer": "OrangeFox Team",
+    "status": "Unofficial",
+    "type": "recovery",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/orangefox.jpg",
+    "dlLink": "https://t.me/a715cloud/3"
+  },
+  {
+    "name": "AOSP Recovery",
+    "version": "9.6",
+    "maintainer": "eun0115",
+    "status": "Unofficial",
+    "type": "recovery",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/aosp_recovery.jpg",
+    "dlLink": "https://sourceforge.net/projects/eun0115/files/EvolutionX/v9.6-recovery.img/download"
+  },
+  {
+    "name": "VBMeta Disabler",
+    "version": "Latest",
+    "maintainer": "Community",
+    "status": "Unofficial",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/vbmeta.jpg",
+    "dlLink": "https://t.me/a715cloud/2"
+  },
+  {
+    "name": "Unlock Bootloader Guide",
+    "version": "2023",
+    "maintainer": "YouTube",
+    "status": "Guide",
+    "type": "guide",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/bootloader.jpg",
+    "dlLink": "https://www.youtube.com/watch?v=1NTCmid17u0"
+  },
+  {
+    "name": "Install UN1CA Guide",
+    "version": "2023",
+    "maintainer": "YouTube",
+    "status": "Guide",
+    "type": "guide",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/un1ca_guide.jpg",
+    "dlLink": "https://www.youtube.com/watch?v=hJYiC4PgIfk"
+  },
+  {
+    "name": "Install Custom ROMs Guide",
+    "version": "2023",
+    "maintainer": "YouTube",
+    "status": "Guide",
+    "type": "guide",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/custom_rom_guide.jpg",
+    "dlLink": "https://www.youtube.com/watch?v=fBvqp9v8Yxo"
+  },
+  {
+    "name": "Install Custom Kernels Guide",
+    "version": "2023",
+    "maintainer": "Telegram",
+    "status": "Guide",
+    "type": "guide",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/kernel_guide.jpg",
+    "dlLink": "https://t.me/a715cloud/22"
+  },
+  {
+    "name": "Install GSI Guide",
+    "version": "2023",
+    "maintainer": "Telegram",
+    "status": "Guide",
+    "type": "guide",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/gsi_guide.jpg",
+    "dlLink": "https://t.me/A715XX/109292"
+  },
+  {
+    "name": "Magisk",
+    "version": "Latest",
+    "maintainer": "topjohnwu",
+    "status": "Official",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/magisk.jpg",
+    "dlLink": "https://github.com/topjohnwu/magisk/releases"
+  },
+  {
+    "name": "Dynapatch",
+    "version": "Latest",
+    "maintainer": "Community",
+    "status": "Unofficial",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/dynapatch.jpg",
+    "dlLink": "https://t.me/a715cloud/14"
+  },
+  {
+    "name": "Multidisabler",
+    "version": "Latest",
+    "maintainer": "Community",
+    "status": "Unofficial",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/multidisabler.jpg",
+    "dlLink": "https://t.me/a715cloud/15"
+  },
+  {
+    "name": "Odin3.13 Windows",
+    "version": "3.13",
+    "maintainer": "Samsung",
+    "status": "Official",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/odin_windows.jpg",
+    "dlLink": "https://samfw.com/blog/download-odin-all-version"
+  },
+  {
+    "name": "Odin4 Linux",
+    "version": "4.1.2.1",
+    "maintainer": "XDA",
+    "status": "Unofficial",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/odin_linux.jpg",
+    "dlLink": "https://xdaforums.com/t/official-samsung-odin-v4-1-2-1-dc05e3ea-for-linux.4453423/"
+  },
+  {
+    "name": "Samsung USB Drivers",
+    "version": "Latest",
+    "maintainer": "Samsung",
+    "status": "Official",
+    "type": "driver",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/samsung_drivers.jpg",
+    "dlLink": "https://developer.samsung.com/android-usb-driver"
+  },
+  {
+    "name": "Google USB Drivers",
+    "version": "Latest",
+    "maintainer": "Google",
+    "status": "Official",
+    "type": "driver",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/google_drivers.jpg",
+    "dlLink": "https://t.me/a715cloud/23"
+  },
+  {
+    "name": "Platform Tools",
+    "version": "Latest",
+    "maintainer": "Google",
+    "status": "Official",
+    "type": "tool",
+    "banner": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/platform_tools.jpg",
+    "dlLink": "https://developer.android.com/tools/releases/platform-tools"
+  }
+    ]
